@@ -1,0 +1,2 @@
+﻿mots = ["affreux", "armoire", "automne", "bapteme", "boucle", "buisson", "bureau", "chaise", "carton", "couteau", "fichier", "garage", "glace", "journal", "kiwi", "lampe", "liste", "montagne", "prince", "remise", "sandale", "taxi", "vampire", "volant"]
+chances = 8
